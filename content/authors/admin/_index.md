@@ -41,7 +41,7 @@ education:
     - course: PhD in Field Robotics
       institution: Loughborough University
       year: 2022
-    - course: MEng in Autonomtive Engineering
+    - course: MEng in Automotive Engineering
       institution: Loughborough University
       year: 2018
 
@@ -129,7 +129,7 @@ social:
     link: https://scholar.google.com/citations?user=aQSQwcUAAAAJ&hl
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcallum-rhodes
+    link: https://github.com/callum-rhodes
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/callum-rhodes-0940b6132/

@@ -10,4 +10,5 @@ publishDate: '2024-04-22T15:05:34.456599Z'
 publication_types:
 - article-journal
 publication: '*IEEE Robotics and Automation Letters*'
+featured: true
 ---

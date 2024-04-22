@@ -64,7 +64,7 @@ sections:
       items:
         - title: Research Fellow
           company: Imperial College London
-          company_url: ''
+          company_url: 'https://www.imperial.ac.uk/dyson-robotics-lab/'
           company_logo: imperial
           location: London, UK
           date_start: '2023-04-01'
@@ -73,12 +73,21 @@ sections:
 
         - title: Control Engineer
           company: Frazer-Nash Consultancy
-          company_url: ''
+          company_url: 'https://www.fnc.co.uk/'
           company_logo: fnc
           location: Bristol, UK
           date_start: '2022-10-01'
           date_end: '2023-07-01'
           description: Developing control capabilities for assured autonomous systems.
+
+        - title: Research Associate
+          company: Loughborough University
+          company_url: 'https://lucasresearch.co.uk/'
+          company_logo: lucas
+          location: Loughborough, UK
+          date_start: '2010-12-01'
+          date_end: '2022-10-01'
+          description: Lead researcher on a DSTL funded project investigating efficient source term estimation using unmanned aerial vehicles.
     design:
       columns: '2'
   # - block: accomplishments

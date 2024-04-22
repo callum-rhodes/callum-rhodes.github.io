@@ -10,4 +10,6 @@ publishDate: '2024-04-22T15:05:34.445677Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Automation Science and Engineering*'
+
+featured: true
 ---

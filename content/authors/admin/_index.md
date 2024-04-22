@@ -55,26 +55,36 @@ skills:
         percent: 100
         icon: python
         icon_pack: fab
+
       - name: MATLAB
         description: ''
         percent: 100
-        icon: devicon/matlab
-        icon_pack: fas
+        icon: matlab
+
       - name: Simulink
         description: ''
         percent: 90
         icon: devicon/matlab
         icon_pack: fas
+
       - name: ROS
         description: ''
         percent: 80
         icon: devicon/ros
         icon_pack: fas
+
       - name: C++
         description: ''
         percent: 60
         icon: devicon/cplusplus
         icon_pack: fas
+
+      - name: CAD (NX)
+        description: ''
+        percent: 60
+        icon: devicon/cplusplus
+        icon_pack: fas
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -84,14 +94,19 @@ skills:
         percent: 100
         icon: heroicons/fire
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
       - name: Football
         description: ''
         percent: 100
+        icon: ball
+        icon_pack: fas
+      - name: Drumming
+        description: ''
+        percent: 90
+        icon: drum
+        icon_pack: fas
+      - name: Motorcycling
+        description: ''
+        percent: 80
         icon: heroicons/fire
         icon_pack: fas
 
@@ -129,5 +144,5 @@ social:
 highlight_name: true
 ---
 
-Callum Rhodes is a current Post Doctoral research fellow at the Dyson Robotics Lab, Imperial College London under the supervision of Professor Andrew Davison. Before this, he completed his PhD in field robotics at Loughborough University's Center for Autonomous Systems, with a focus on remote gas distribution mapping using robotic platforms. He is passionate about creating real-time software solutions and seeing the process through to hardware deployment.
+Callum Rhodes is a current Post Doctoral research fellow at the Dyson Robotics Lab, Imperial College London under the supervision of Professor Andrew Davison. His current research interest is on distributed inference and leveraging learnt monocular priors for 3D scene understanding. Before this, he completed his PhD in field robotics at Loughborough University's Center for Autonomous Systems, with a focus on remote gas distribution mapping using robotic platforms. He is passionate about creating real-time software solutions and seeing the process through to hardware deployment.
 {style="text-align: justify;"}

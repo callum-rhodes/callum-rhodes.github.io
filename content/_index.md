@@ -65,19 +65,19 @@ sections:
         - title: Research Fellow
           company: Imperial College London
           company_url: ''
-          company_logo: org-gc
+          company_logo: imperial
           location: London, UK
-          date_start: '2023-04'
+          date_start: '2023-04-01'
           date_end: ''
           description: Researching distributed and efficient computation methods for modern computer vision problems applied to robotics.
 
         - title: Control Engineer
           company: Frazer-Nash Consultancy
           company_url: ''
-          company_logo: org-x
+          company_logo: fnc
           location: Bristol
-          date_start: '2022-10'
-          date_end: '2023-07'
+          date_start: '2022-10-01'
+          date_end: '2023-07-01'
           description: Developing control capabilities for assured autonomous systems.
     design:
       columns: '2'
@@ -169,8 +169,10 @@ sections:
           tag: '*'
         - name: Robotics
           tag: Robotics
-        - name: Other
-          tag: Demo
+        - name: Vision
+          tag: Vision
+        - name: Mapping
+          tag: Mapping
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -210,16 +212,16 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
   - block: tag_cloud
     content:
       title: Popular Topics

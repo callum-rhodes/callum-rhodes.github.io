@@ -25,7 +25,7 @@ organizations:
     url: https://www.imperial.ac.uk/dyson-robotics-lab
 
 # Short bio (displayed in user profile at end of posts)
-bio: Automotive / Robotics / Machine vision engineer. Passionate about create real-time software solutions and seeing the process through to hardware deployment.
+bio: Automotive / Robotics / Machine vision engineer
 
 # Interests to show in About widget
 interests:
@@ -52,37 +52,47 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: MATLAB
         description: ''
         percent: 100
-        icon: chart-line
+        icon: devicon/matlab
         icon_pack: fas
-      - name: SQL
+      - name: Simulink
         description: ''
-        percent: 40
-        icon: database
+        percent: 90
+        icon: devicon/matlab
+        icon_pack: fas
+      - name: ROS
+        description: ''
+        percent: 80
+        icon: devicon/ros
+        icon_pack: fas
+      - name: C++
+        description: ''
+        percent: 60
+        icon: devicon/cplusplus
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Snowboarding
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 100
+        icon: heroicons/fire
         icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Football
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 100
+        icon: heroicons/fire
         icon_pack: fas
 
 # Social/Academic Networking
@@ -92,7 +102,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:callum.r.rhodes@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/DoC_Rhodes_
@@ -101,13 +111,13 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=aQSQwcUAAAAJ&hl
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/gcallum-rhodes
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/callum-rhodes-0940b6132/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -119,5 +129,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Callum Rhodes is a current Post Doctoral research fellow at the Dyson Robotics Lab, Imperial College London under the supervision of Professor Andrew Davison. Before this, he completed his PhD in field robotics at Loughborough University's Center for Autonomous Systems, with a focus on remote gas distribution mapping using robotic platforms. He is passionate about creating real-time software solutions and seeing the process through to hardware deployment.
 {style="text-align: justify;"}

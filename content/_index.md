@@ -75,7 +75,7 @@ sections:
           company: Frazer-Nash Consultancy
           company_url: ''
           company_logo: fnc
-          location: Bristol
+          location: Bristol, UK
           date_start: '2022-10-01'
           date_end: '2023-07-01'
           description: Developing control capabilities for assured autonomous systems.
@@ -236,6 +236,7 @@ sections:
         Feel free to contact me for any opportunities or any questions regarding my projects.
       # Contact (add or remove contact options as necessary)
       email: callum.r.rhodes@gmail.com
+      email: c.rhodes@imperial.ac.uk
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
@@ -275,7 +276,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---

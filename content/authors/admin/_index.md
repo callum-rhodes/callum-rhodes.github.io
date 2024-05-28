@@ -59,30 +59,37 @@ skills:
       - name: MATLAB
         description: ''
         percent: 100
-        icon: matlab
+        icon: square-root-alt
+        icon_pack: fas
 
       - name: Simulink
         description: ''
-        percent: 90
-        icon: devicon/matlab
+        percent: 95
+        icon: sitemap
         icon_pack: fas
 
       - name: ROS
         description: ''
-        percent: 80
-        icon: devicon/ros
+        percent: 90
+        icon: robot
         icon_pack: fas
 
       - name: C++
         description: ''
-        percent: 60
-        icon: devicon/cplusplus
+        percent: 85
+        icon: plus
         icon_pack: fas
 
       - name: CAD (NX)
         description: ''
-        percent: 60
-        icon: devicon/cplusplus
+        percent: 85
+        icon: archway
+        icon_pack: fas
+
+      - name: JAX
+        description: ''
+        percent: 70
+        icon: th
         icon_pack: fas
 
   - name: Hobbies
@@ -92,12 +99,12 @@ skills:
       - name: Snowboarding
         description: ''
         percent: 100
-        icon: heroicons/fire
+        icon: snowboarding
         icon_pack: fas
       - name: Football
         description: ''
         percent: 100
-        icon: ball
+        icon: volleyball-ball
         icon_pack: fas
       - name: Drumming
         description: ''
@@ -106,8 +113,8 @@ skills:
         icon_pack: fas
       - name: Motorcycling
         description: ''
-        percent: 80
-        icon: heroicons/fire
+        percent: 85
+        icon: motorcycle
         icon_pack: fas
 
 # Social/Academic Networking
@@ -138,7 +145,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/callum-rhodes-cv.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

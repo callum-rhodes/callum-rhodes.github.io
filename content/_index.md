@@ -85,7 +85,7 @@ sections:
           company_url: 'https://lucasresearch.co.uk/'
           company_logo: lucas
           location: Loughborough, UK
-          date_start: '2010-12-01'
+          date_start: '2019-12-01'
           date_end: '2022-10-01'
           description: Lead researcher on a DSTL funded project investigating efficient source term estimation using unmanned aerial vehicles.
     design:

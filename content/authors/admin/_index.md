@@ -50,13 +50,13 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Python (OpenCV, Open3d, Pytorch, JAX)
         description: ''
         percent: 100
         icon: python
         icon_pack: fab
 
-      - name: MATLAB
+      - name: MATLAB (Robotics system toolbox)
         description: ''
         percent: 100
         icon: square-root-alt
@@ -68,13 +68,13 @@ skills:
         icon: sitemap
         icon_pack: fas
 
-      - name: ROS
+      - name: ROS1/2
         description: ''
         percent: 90
         icon: robot
         icon_pack: fas
 
-      - name: C++
+      - name: C++ (OpenCV, Torchlib, OpenMP)
         description: ''
         percent: 85
         icon: plus
@@ -84,12 +84,6 @@ skills:
         description: ''
         percent: 85
         icon: archway
-        icon_pack: fas
-
-      - name: JAX
-        description: ''
-        percent: 70
-        icon: th
         icon_pack: fas
 
   - name: Hobbies

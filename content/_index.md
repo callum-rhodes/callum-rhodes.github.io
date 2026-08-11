@@ -191,6 +191,8 @@ sections:
           tag: Vision
         - name: Mapping
           tag: Mapping
+        - name: Just for fun
+          tag: Just for fun
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -254,7 +256,6 @@ sections:
         Feel free to contact me for any opportunities or any questions regarding my projects.
       # Contact (add or remove contact options as necessary)
       email: callum.r.rhodes@gmail.com
-      email: c.rhodes@imperial.ac.uk
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:

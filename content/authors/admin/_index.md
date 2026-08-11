@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Post Doc researcher
+role: Autonomy Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Dyson Robotics Lab, Imperial College London
-    url: https://www.imperial.ac.uk/dyson-robotics-lab
+  - name: Frazer-Nash Consultancy
+    url: https://www.fnc.co.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Automotive / Robotics / Machine vision engineer
+bio: Robotics / Automotive / Machine vision engineer
 
 # Interests to show in About widget
 interests:
@@ -64,7 +64,7 @@ skills:
 
       - name: Simulink
         description: ''
-        percent: 95
+        percent: 100
         icon: sitemap
         icon_pack: fas
 
@@ -80,7 +80,7 @@ skills:
         icon: plus
         icon_pack: fas
 
-      - name: CAD (NX)
+      - name: CAD (NX/Autodesk Fusion)
         description: ''
         percent: 85
         icon: archway
@@ -145,5 +145,5 @@ social:
 highlight_name: true
 ---
 
-Callum Rhodes is a current Post Doctoral research fellow at the Dyson Robotics Lab, Imperial College London under the supervision of Professor Andrew Davison. His current research interest is on distributed inference and leveraging learnt monocular priors for 3D scene understanding. Before this, he completed his PhD in field robotics at Loughborough University's Center for Autonomous Systems, with a focus on remote gas distribution mapping using robotic platforms. He is passionate about creating real-time software solutions and seeing the process through to hardware deployment.
+Callum Rhodes is a currently a Lead Autonomy Engineer at Frazer-Nash Consultancy, where he works on developing core autonomy functions for multi-million pound projects. These systems have been demoed live to clients for a wide array applications onboard various configurations of UAV platforms. Prior to this, he was a post doctoral research fellow at the Dyson Robotics Lab, Imperial College London under the supervision of Professor Andrew Davison. His research interests were on distributed inference and leveraging learnt monocular priors for 3D scene understanding. He completed his PhD in field robotics at Loughborough University's Center for Autonomous Systems, with a focus on remote gas distribution mapping using robotic platforms. He is passionate about creating real-time software solutions and seeing the process through to hardware deployment.
 {style="text-align: justify;"}

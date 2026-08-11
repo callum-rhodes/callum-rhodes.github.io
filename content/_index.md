@@ -62,13 +62,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Lead Autonomy Engineer
+          company: Frazer-Nash Consultancy
+          company_url: 'https://www.fnc.co.uk/'
+          company_logo: fnc
+          location: Bristol, UK
+          date_start: '2024-12-01'
+          date_end: ''
+          description: Lead autonomy engineer designing cutting edge state estimation algorithms for identifying and predicting target pose and motion. Designing non-linear optimisation based control algorithms for controlling platforms with various dynamic constraints.
+
         - title: Research Fellow
           company: Imperial College London
           company_url: 'https://www.imperial.ac.uk/dyson-robotics-lab/'
           company_logo: imperial
           location: London, UK
           date_start: '2023-04-01'
-          date_end: ''
+          date_end: '2024-12-01'
           description: Researching distributed and efficient computation methods for modern computer vision problems applied to robotics.
 
         - title: Control Engineer

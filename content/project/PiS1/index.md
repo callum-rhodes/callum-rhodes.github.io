@@ -7,7 +7,7 @@ tags:
   - DIY
   - 3D Printing
 
-date: '2024-05-16T00:00:00Z'
+date: '2026-05-16T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

@@ -5,8 +5,8 @@ authors:
 - Callum Rhodes
 - Cunjia Liu
 - Wen-Hua Chen
-date: '2022-01-01'
-publishDate: '2024-04-22T15:05:34.456599Z'
+date: '2022-01-19'
+publishDate: '2022-01-19T15:05:34.456599Z'
 publication_types:
 - article-journal
 publication: '*IEEE Robotics and Automation Letters*'

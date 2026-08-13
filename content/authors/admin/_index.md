@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Autonomy Engineer
+role: Lead Autonomy Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -90,7 +90,7 @@ sections:
           location: Bristol, UK
           date_start: '2022-10-01'
           date_end: '2023-07-01'
-          description: Developing control capabilities for assured autonomous systems.
+          description: Developing control and state estimation capabilities for assured autonomous systems. 
 
         - title: Research Associate
           company: Loughborough University
@@ -100,7 +100,15 @@ sections:
           date_start: '2019-12-01'
           date_end: '2022-10-01'
           description: Lead researcher on a DSTL funded project investigating efficient source term estimation using unmanned aerial vehicles.
-    design:
+
+        - title: Calibration Engineer
+          company: Bosch Automotive
+          company_url: 'https://www.bosch-engineering.com/'
+          company_logo: Bosch-logo
+          location: Coventry, UK
+          date_start: '2015-10-01'
+          date_end: '2016-10-01'
+          description: Calibration engineer testing prototype JLR vehicles before production release.
       columns: '2'
   #===========================================================================================
   # - block: accomplishments
